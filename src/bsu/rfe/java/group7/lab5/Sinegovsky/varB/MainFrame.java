@@ -1,4 +1,4 @@
-package bsu.rfe.java.group7.lab5.Sinegovsky;
+package bsu.rfe.java.group7.lab5.Sinegovsky.varB;
 
 import java.awt.BorderLayout;
 import java.awt.Toolkit;
